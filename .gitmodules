@@ -1,0 +1,3 @@
+[submodule "themes/hugo-icon"]
+	path = themes/hugo-icon
+	url = git@github.com:elastos-blockchain/hugo-icon.git
