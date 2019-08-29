@@ -1,7 +1,7 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
 baseURL = ""
-languageCode = "en-AU"
+languageCode = "en-US"
 title = "Elastos Blockchain"
 
 # Metadata
@@ -181,6 +181,14 @@ title = "Elastos Blockchain"
     email = "tandonglei@elastos.org"
     github = "https://github.com/modongjie"
 
+  [[params.team.item]]
+    name = "Xiaobo Tian"
+    position = ""
+    description = ""
+    img = "images/person2.jpg"
+    email = "tianxiaobo@elastos.org"
+    github = "https://github.com/peterwillcn"
+
   # [[params.team.item]]
   #   name = "Jason Doe"
   #   position = "Chief haranguer"
@@ -217,4 +225,3 @@ title = "Elastos Blockchain"
 # vine = "#"
 # linkedin = "#"
 # instagram = "#"
-  
