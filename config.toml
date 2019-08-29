@@ -1,6 +1,6 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "elablockchain.xyz"
+baseURL = ""
 languageCode = "en-AU"
 title = "Elastos Blockchain"
 
