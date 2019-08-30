@@ -189,6 +189,14 @@ title = "Elastos Blockchain"
     email = "tianxiaobo@elastos.org"
     github = "https://github.com/peterwillcn"
 
+  [[params.team.item]]
+    name = "Pei Hou"
+    position = ""
+    description = ""
+    img = "images/person3.jpg"
+    email = "houpei@elastos.org"
+    github = "https://github.com/Houshoupei84"
+
   # [[params.team.item]]
   #   name = "Jason Doe"
   #   position = "Chief haranguer"
