@@ -22,7 +22,7 @@ title = "Elastos Blockchain"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
-  # logo = "path/to/logo"
+  logo = "images/home.jpg"
 
 # Mission section
 [params.mission]
@@ -42,62 +42,62 @@ title = "Elastos Blockchain"
 
   [[params.mission.item]]
     weight = 1
-    name = "marketing"
-    title = "Marketing"
-    subtitle = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione voluptate laborum sapiente officiis molestiaea."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae aliquid aperiam eveniet officia molestiae temporibus beatae dolores dignissimos aspernatur eius doloremque ad, eaque pariatur, repellendus illum, nostrum velit necessitatibus molestias.</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    name = "about"
+    title = "About"
+    subtitle = "Elastos Blockchain consists of Elastos Core Team members, aimed to building infrastructure for the Modern Internet."
+    description = "<p>We foucs on the following technology currently:</p><ul class='checked'><li>ELA blockchain</li><li>Crosschain</li><li>Consensus study</li><li>SPV basic library</li><li>Cyber Republic</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
-    name = "analysis"
-    title = "Resources"
-    subtitle = "Quam quasi illum expedita dicta nemo fugit reprehenderit similique! Corporis praesentium magnam sequi."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla explicabo, molestiae eaque fugiat dolores est esse, doloremque placeat assumenda corrupti officia dolorum. Sunt saepe ut, explicabo consectetur, nostrum illo est.</p><ul class='checked'><li>Free HTML5 Templates</li><li>Free Bootstrap Templates</li><li>Free HTML5 Bootstrap Templates</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    name = "vision"
+    title = "Vision"
+    subtitle = "."
+    description = "<p>.</p><ul class='checked'><li></li><li></li><li></li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Roadmap</a></p>"
 
   [[params.mission.item]]
     weight = 3
-    name = "strategy"
-    title = "Strategy"
-    subtitle = "Magnam iste obcaecati illo laboriosam amet. Dignissimos sed quis voluptatum corporis adipisci amet."
-    description = "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio dolore illum expedita placeat debitis, dignissimos obcaecati et modi. Possimus id dicta consequuntur veritatis, reiciendis at expedita voluptate sint distinctio eligendi!</p><ul class='checked'><li>Web Development</li><li>User Interface Experts</li><li>Pixel Perfect Design</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    name = "suppernode"
+    title = "Suppernode"
+    subtitle = "Elastos suppernode will be used to improve the ELA source code."
+    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>How to vote</a></p>"
 
 # Services section
 [params.services]
   enable = true
-  video = true
-  vidlink = "https://vimeo.com/channels/staffpicks/93951774"
-  title = "Our Services"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  video = false
+  vidlink = ""
+  title = "Our Focuses"
+  description = ""
 
   [[params.services.item]]
     icon = "icon-present"
-    title = "Web Development"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "ELA blockchain"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-eye"
-    title = "Retina Ready"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Crosschain"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-paper-plane"
-    title = "Light Speed"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "SPV"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-pencil"
-    title = "Copyrighting"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "POW"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-rocket"
-    title = "Load Fast"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "DPOS"
+    description = ""
 
   [[params.services.item]]
     icon = "icon-support"
-    title = "Customer Support"
-    description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+    title = "Cyber Republic"
+    description = ""
 
 # Work section
 [params.work]
@@ -123,37 +123,17 @@ title = "Elastos Blockchain"
     subtitle = "Web Design"
     img = "images/img_2.jpg"
 
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_2.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_3.jpg"
-
-  [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
-    img = "images/img_4.jpg"
-
 # Team section
 [params.team]
   enable = true
   title = "Meet The Team"
-  description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  description = ""
 
   [[params.team.item]]
     name = "Mingzhi Yan"
     position = ""
     description = ""
-    img = "images/person1.jpg"
+    img = "images/yanmingzhi.jpg"
     email = "yanmingzhi@elastos.org"
     github = "https://github.com/raindust"
 
@@ -205,6 +185,16 @@ title = "Elastos Blockchain"
     email = "zhouyang@elastos.org"
     github = "https://github.com/yz89"
 
+  [[params.team.item]]
+    name = "Bocheng Zhang"
+    position = ""
+    description = ""
+    img = "images/person2.jpg"
+    email = "zhangbocheng@elastos.org"
+    github = "https://github.com/bocheng0000"
+
+
+
   # [[params.team.item]]
   #   name = "Jason Doe"
   #   position = "Chief haranguer"
@@ -223,7 +213,7 @@ title = "Elastos Blockchain"
 [params.contact]
   enable = true
   title = "Get In Touch"
-  message = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
+  message = ""
   name_placeholder = "Your name"
   email_placeholder = "Your email"
   email_disclaimer = "We'll never share your email with anyone else."
