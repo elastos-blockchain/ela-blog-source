@@ -52,14 +52,16 @@ title = "Elastos Blockchain"
     name = "vision"
     title = "Vision"
     subtitle = "."
-    description = "<p>.</p><ul class='checked'><li></li><li></li><li></li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Roadmap</a></p>"
+    description = "<p>.</p><ul class='checked'><li></li><li></li><li></li></ul><p><a href='https://www.elastos.org/roadmap/' target='_blank' class='btn btn-primary btn-outline ' data-nav-section='contact'>Roadmap</a></p>"
 
   [[params.mission.item]]
     weight = 3
+    video = true
+    vidlink = "https://youtu.be/p3S_Dnx0oys"
     name = "suppernode"
     title = "Suppernode"
     subtitle = "Elastos suppernode will be used to improve the ELA source code."
-    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>How to vote</a></p>"
+    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='https://youtu.be/p3S_Dnx0oys' target='_blank' class='btn btn-primary btn-outline'>How to vote</a></p>"
 
 # Services section
 [params.services]
@@ -157,7 +159,7 @@ title = "Elastos Blockchain"
     name = "Donglei Tan"
     position = ""
     description = ""
-    img = "images/person1.jpg"
+    img = "images/tdl640.jpg"
     email = "tandonglei@elastos.org"
     github = "https://github.com/modongjie"
 
@@ -165,7 +167,7 @@ title = "Elastos Blockchain"
     name = "Xiaobo Tian"
     position = ""
     description = ""
-    img = "images/person2.jpg"
+    img = "images/bitcoin640.jpg"
     email = "tianxiaobo@elastos.org"
     github = "https://github.com/peterwillcn"
 
@@ -173,7 +175,7 @@ title = "Elastos Blockchain"
     name = "Pei Hou"
     position = ""
     description = ""
-    img = "images/person3.jpg"
+    img = "images/hp640.jpg"
     email = "houpei@elastos.org"
     github = "https://github.com/Houshoupei84"
 
