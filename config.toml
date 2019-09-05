@@ -45,14 +45,14 @@ title = "Elastos Blockchain"
     name = "about"
     title = "About"
     subtitle = "Elastos Blockchain consists of Elastos Core Team members, aimed to building infrastructure for the Modern Internet."
-    description = "<p>We foucs on the following technology currently:</p><ul class='checked'><li>ELA blockchain</li><li>Crosschain</li><li>Consensus study</li><li>SPV basic library</li><li>Cyber Republic</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    description = "<p>We are a groups of developers from the Elastos Core Team, we are foucsing on the following technology currently:</p><ul class='checked'><li>ELA blockchain</li><li>Crosschain</li><li>Consensus study</li><li>SPV basic library</li><li>Cyber Republic</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
     name = "vision"
     title = "Vision"
-    subtitle = "."
-    description = "<p>.</p><ul class='checked'><li></li><li></li><li></li></ul><p><a href='https://www.elastos.org/roadmap/' target='_blank' class='btn btn-primary btn-outline ' data-nav-section='contact'>Roadmap</a></p>"
+    subtitle = "We have a dream, that one day the Internet can be a place that more safe, trusted, and reliable. ."
+    description = "<p>Where wihout threating of viruses, without blackmain from hackers, without leaking out our privacy, and without all kinds of disadvantages about traditional World Wide Web. We call it the Smart Web, and blockchain technology should be a very important part of it. </p><ul class='checked'><li>Build the next generation smart web</li><li>Provide more safe, trustable, decentralized and distributed net environment</li><li>Let elastos blockchains be more stable and usable</li></ul><p><a href='https://www.elastos.org/roadmap/' target='_blank' class='btn btn-primary btn-outline ' data-nav-section='contact'>Roadmap</a></p>"
 
   [[params.mission.item]]
     weight = 3
