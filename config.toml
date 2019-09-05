@@ -66,8 +66,8 @@ title = "Elastos Blockchain"
 # Services section
 [params.services]
   enable = true
-  video = false
-  vidlink = ""
+  video = true 
+  vidlink = "https://www.elastos.org/static/Elastos.8194c3bb.mp4"
   title = "Our Focuses"
   description = ""
 
