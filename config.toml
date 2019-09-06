@@ -44,8 +44,8 @@ title = "Elastos Blockchain"
     weight = 1
     name = "about"
     title = "About"
-    subtitle = "Elastos Blockchain consists of Elastos Core Team members, aimed to building infrastructure for the Modern Internet."
-    description = "<p>We are a groups of developers from the Elastos Core Team, we are foucsing on the following technology currently:</p><ul class='checked'><li>ELA blockchain</li><li>Crosschain</li><li>Consensus study</li><li>SPV basic library</li><li>Cyber Republic</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
+    subtitle = "Elastos Blockchain consists of Elastos Core Team members, aim to building infrastructure for the Modern Internet."
+    description = "<p>We are a group of developers from the Elastos Core Team, we are foucsing on the following technology currently:</p><ul class='checked'><li>ELA blockchain</li><li>Crosschain</li><li>Consensus study</li><li>SPV basic library</li><li>Cyber Republic</li></ul><p><a href='#' class='btn btn-primary btn-outline fh5co-content-nav' data-nav-section='contact'>Get In Touch</a></p>"
 
   [[params.mission.item]]
     weight = 2
