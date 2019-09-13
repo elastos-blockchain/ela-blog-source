@@ -106,24 +106,28 @@ title = "Elastos Blockchain"
   enable = true
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "The professional services"
+    subtitle = "Cyberrepublic"
     img = "images/img_1.jpg"
+    url = "https://www.cyberrepublic.org/"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "The professional services"
+    subtitle = "The Official website"
     img = "images/img_2.jpg"
+    url = "https://www.elastos.org"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "The professional services"
+    subtitle = "The official source code"
     img = "images/img_3.jpg"
+    url = "https://github.com/elastos"
 
   [[params.work.item]]
-    title = "Consectetur adipisicing"
-    subtitle = "Web Design"
+    title = "The professional services"
+    subtitle = "The official website code"
     img = "images/img_2.jpg"
+    url = "https://github.com/elastos-blockchain"
 
 # Team section
 [params.team]
