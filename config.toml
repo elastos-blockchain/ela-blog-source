@@ -230,7 +230,7 @@ title = "Elastos Blockchain"
 # Note here that the copyright and attribution statement must remain as part of the license agreement. If you wish to remove this, please contact freehtml5 and pay for a professional license.
 [params.footer]
   enable = true
-  note = "<p><small>&copy; 2019 Elastos Blockchain Team. All Rights Reserved. <br> Designed by <a href='http://freehtml5.co/' target='_blank'>FreeHTML5.co</a> Demo Images: <a href='http://pexels.com/' target='_blank'>Pexels</a><br>Hugo port by <a href='https://github.com/SteveLane/' target='_blank'>SteveLane</a></small></p>"
+  note = "<p><small>&copy; 2019 Elastos Blockchain Team. All Rights Reserved.</p>"
   github = "https://github.com/elastos-blockchain"
 # twitter = "#"
 # facebook = "#"
