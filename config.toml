@@ -106,26 +106,26 @@ title = "Elastos Blockchain"
   enable = true
 
   [[params.work.item]]
-    title = "The professional services"
-    subtitle = "Cyberrepublic"
+    title = ""
+    subtitle = ""
     img = "images/cr-main.jpg"
     url = "https://www.cyberrepublic.org/"
 
   [[params.work.item]]
-    title = "The professional services"
-    subtitle = "The Official website"
+    title = ""
+    subtitle = ""
     img = "images/ela-logo.jpg"
     url = "https://www.elastos.org"
 
   [[params.work.item]]
-    title = "The professional services"
-    subtitle = "The official source code"
+    title = ""
+    subtitle = ""
     img = "images/cr-governance.jpg"
     url = "https://github.com/elastos"
 
   [[params.work.item]]
-    title = "The professional services"
-    subtitle = "The official website code"
+    title = ""
+    subtitle = ""
     img = "images/cr-ecosystem-fund.jpg"
     url = "https://github.com/elastos-blockchain"
 
