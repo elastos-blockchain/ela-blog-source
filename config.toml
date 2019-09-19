@@ -51,8 +51,8 @@ title = "Elastos Blockchain"
     weight = 2
     name = "vision"
     title = "Vision"
-    subtitle = "We have a dream, that one day the Internet can be a place that more safe, trusted, and reliable. ."
-    description = "<p>Where wihout threating of viruses, without blackmain from hackers, without leaking out our privacy, and without all kinds of disadvantages about traditional World Wide Web. We call it the Smart Web, and blockchain technology should be a very important part of it. </p><ul class='checked'><li>Build the next generation smart web</li><li>Provide more safe, trustable, decentralized and distributed net environment</li><li>Let elastos blockchains be more stable and usable</li></ul><p><a href='https://www.elastos.org/roadmap/' target='_blank' class='btn btn-primary btn-outline ' data-nav-section='contact'>Roadmap</a></p>"
+    subtitle = "We have a dream, that one day the Internet can be a place that more safe, trusted, and reliable..."
+    description = "<p>Where wihout threating of viruses, without blackmail from hackers, without leaking out our privacy, and without all kinds of disadvantages about traditional World Wide Web. We call it the Smart Web, and blockchain technology should be a very important part of it. </p><ul class='checked'><li>Build the next generation smart web</li><li>Provide more safe, trustable, decentralized and distributed net environment</li><li>Let elastos blockchains be more stable and usable</li></ul><p><a href='https://www.elastos.org/roadmap/' target='_blank' class='btn btn-primary btn-outline ' data-nav-section='contact'>Roadmap</a></p>"
 
   [[params.mission.item]]
     weight = 3
@@ -61,7 +61,7 @@ title = "Elastos Blockchain"
     name = "suppernode"
     title = "Suppernode"
     subtitle = "Elastos Blockchain suppernode will be used to improve the ELA source code."
-    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='https://youtu.be/p3S_Dnx0oys' target='_blank' class='btn btn-primary btn-outline'>How to vote</a></p>"
+    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters.</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='https://youtu.be/p3S_Dnx0oys' target='_blank' class='btn btn-primary btn-outline'>How to vote</a></p>"
 
 # Services section
 [params.services]
