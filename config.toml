@@ -12,8 +12,8 @@ title = "Elastos Blockchain"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for smart web"
-  description = ""
+  title = "Elastos Blockchain"
+  description = "Create awesome things for smart web"
 
 # Navigation section
 [params.nav]
