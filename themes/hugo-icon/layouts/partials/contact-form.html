@@ -6,7 +6,7 @@
       <p>{{ .message | markdownify }}</p>
       {{ end }}
     </div>
-    <form name="contact-form" netlify-honeypot="_gotcha" action="thank-you" netlify>
+    <form name="contact-form" netlify-honeypot="_gotcha" action="mailto:hello@elablockchain.xyz" method="GET" netlify>
       <div class="row">
 	<div class="col-md-6">
 	  <div class="form-group">
@@ -24,13 +24,13 @@
 		  {{ end }}
 	  </div>
 	</div>
-	<div class="col-md-12">
+	<!--div class="col-md-12">
 	  <div class="form-group">
 		  {{ with .Site.Params.contact }}
 	    <textarea class="form-control" id="inputBody" cols="30" rows="7" placeholder="{{ .message_placeholder }}" name="message"></textarea>
 		  {{ end }}
 	  </div>
-	</div>
+	</div-->
 	<div class="col-md-12">
 	  <div class="form-group">
 	    <input type="hidden" name="_subject" value="New website query">
