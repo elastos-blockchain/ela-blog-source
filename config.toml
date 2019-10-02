@@ -140,7 +140,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/ymz640.jpg"
-    email = "yanmingzhi@elastos.org"
+    email = "yanmingzhi@gelaxy.io"
     github = "https://github.com/raindust"
 
   [[params.team.item]]
@@ -148,7 +148,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/pyx640.jpg"
-    email = "panyingxiong@elastos.org"
+    email = "panyingxiong@gelaxy.io"
     github = "https://github.com/heropan"
 
   [[params.team.item]]
@@ -156,7 +156,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/jzh640.jpg"
-    email = "jiangzehua@elastos.org"
+    email = "jiangzehua@gelaxy.io"
     github = "https://github.com/RainFallsSilent"
 
   [[params.team.item]]
@@ -164,7 +164,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/tdl640.jpg"
-    email = "tandonglei@elastos.org"
+    email = "tandonglei@gelaxy.io"
     github = "https://github.com/modongjie"
 
   [[params.team.item]]
@@ -172,7 +172,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/bitcoin640.jpg"
-    email = "tianxiaobo@elastos.org"
+    email = "tianxiaobo@gelaxy.io"
     github = "https://github.com/peterwillcn"
 
   [[params.team.item]]
@@ -180,7 +180,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/hp640.jpg"
-    email = "houpei@elastos.org"
+    email = "houpei@gelaxy.io"
     github = "https://github.com/Houshoupei84"
 
   [[params.team.item]]
@@ -188,7 +188,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/zy640.jpg"
-    email = "zhouyang@elastos.org"
+    email = "zhouyang@gelaxy.io"
     github = "https://github.com/yz89"
 
   [[params.team.item]]
@@ -196,7 +196,7 @@ title = "Elastos Blockchain"
     position = ""
     description = ""
     img = "images/bc640.jpg"
-    email = "zhangbocheng@elastos.org"
+    email = "bocheng0000@gmail.com"
     github = "https://github.com/bocheng0000"
 
 
