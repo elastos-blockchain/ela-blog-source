@@ -7,7 +7,7 @@ title = "Elastos Blockchain"
 # Metadata
 [params]
   author = "Elastos Blockchain"
-  description = "The Elastos blockchain supper node"
+  description = "The Elastos blockchain super node"
 
 # Hero section (from here on is for icon theme)
 [params.hero]
@@ -58,10 +58,10 @@ title = "Elastos Blockchain"
     weight = 3
     video = true
     vidlink = "https://youtu.be/p3S_Dnx0oys"
-    name = "suppernode"
-    title = "Suppernode"
-    subtitle = "Elastos Blockchain suppernode will be used to improve the ELA source code."
-    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime suppernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters.</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to suppernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='https://youtu.be/p3S_Dnx0oys' target='_blank' class='btn btn-primary btn-outline'>How to vote</a></p>"
+    name = "supernode"
+    title = "supernode"
+    subtitle = "Elastos Blockchain supernode will be used to improve the ELA source code."
+    description = "<p>Since we don't really have operation rights before, it's inconvenient for us to monitor the runtime supernode, fetch the related logs, and do some experiment in production environment. So it's essential for us to get the first-hand information, and eat 'our own' dog food.</p><p>We will use 20% of the rewards to rent the cloud host and any other useful cloud services that would help us to improve the ELA source code, the rest of the reward will give back to voters.</p><ul class='checked'><li>80% of rewards distributed to voters</li><li>20% of the rewards are used to supernode maintainance</li><li>Payouts are sent weekly</li></ul><p><a href='https://youtu.be/p3S_Dnx0oys' target='_blank' class='btn btn-primary btn-outline'>How to vote</a></p>"
 
 # Services section
 [params.services]
