@@ -99,7 +99,7 @@ title = "Elastos Blockchain"
   [[params.services.item]]
     icon = "icon-support"
     title = "Cyber Republic"
-    description = "<a href='http://wiki.longrunweather.com:18080/projects/doc/wiki/Wiki'></a>"
+    url = "http://wiki.longrunweather.com:18080/projects/doc/wiki/Wiki"
 
 # Work section
 [params.work]
