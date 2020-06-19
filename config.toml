@@ -100,6 +100,7 @@ title = "Elastos Blockchain"
     icon = "icon-support"
     title = "Cyber Republic"
     description = ""
+    url = "http://wiki.longrunweather.com:18080/projects/doc/wiki/Wiki"
 
 # Work section
 [params.work]
@@ -198,7 +199,6 @@ title = "Elastos Blockchain"
     img = "images/bc640.jpg"
     email = "bocheng0000@gmail.com"
     github = "https://github.com/bocheng0000"
-
 
 
   # [[params.team.item]]
