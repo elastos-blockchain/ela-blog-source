@@ -20,6 +20,7 @@ title = "My Awesome Title"
   mission = "Our Mission"
   services = "Services"
   team = "The Team"
+  news = "Community News"
   contact = "Get In Touch"
   # Include logo instead if HOME:
   # logo = "path/to/logo"

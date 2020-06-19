@@ -20,6 +20,7 @@ title = "Elastos Blockchain"
   mission = "Our Mission"
   services = "Services"
   team = "The Team"
+  news = "Community news"
   contact = "Get In Touch"
   # Include logo instead if HOME:
   logo = "images/home.jpg"
@@ -214,6 +215,21 @@ title = "Elastos Blockchain"
   #   instagram = "#"
   #   github = "#"
   #   whatsapp = "#"
+
+
+# Team section
+[params.news]
+  enable = true
+  title = "Community News"
+  description = ""
+
+  [[params.news.item]]
+    name = "YiPeng Su"
+    position = ""
+    description = "CR election views"
+    url = "http://wiki.longrunweather.com:18080/projects/doc/wiki/Wiki"
+    img = "images/suyipeng.jpg"
+
 
 # Contact section
 [params.contact]
