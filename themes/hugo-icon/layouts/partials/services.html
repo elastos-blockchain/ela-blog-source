@@ -8,21 +8,22 @@
       <h2>{{ .title | markdownify }}</h2>
       <p>{{ .description | markdownify }}</p>
     </div>
-    
+
     {{ range .item }}
     <div class="col-md-4">
       <div class="service">
 	<div class="icon"><i class={{ .icon }}></i></div>
 	<h3>{{ .title  | markdownify }}</h3>
+  <a href="{{ .url | markdownify }}"> </a>
 	<p>{{ .description | markdownify }}</p>
       </div>
     </div>
     {{ end }}
-    
+
     <div class="col-md-12 text-center">
       <p><a href="#" class="btn btn-primary btn-outline fh5co-content-nav" data-nav-section="contact">Get In Touch</a></p>
     </div>
-    
+
   </div>
   {{ end }}
 </div> <!-- END fh5co-services -->
