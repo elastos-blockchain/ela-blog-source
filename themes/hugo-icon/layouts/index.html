@@ -14,30 +14,28 @@
     <div class="fh5co-page">
       <div id="fh5co-container">
 	
-	{{ partial "hero.html" . }}
-	
 	{{ partial "nav.html" . }}
 
-	{{ if .Site.Params.mission.enable }}
-	{{ partial "mission.html" . }}
-	{{ end }}
-	
 	{{ if .Site.Params.services.enable }}
 	{{ partial "services.html" .}}
+	{{ end }}
+	
+	{{ if .Site.Params.contact.enable }}
+	{{ partial "contact-form.html" .}}
 	{{ end }}
 	
 	{{ if .Site.Params.work.enable }}
 	{{ partial "gallery.html" .}}
 	{{ end }}
 	
+	{{ if .Site.Params.mission.enable }}
+	{{ partial "mission.html" . }}
+	{{ end }}
+	
 	{{ if .Site.Params.team.enable }}
 	{{ partial "team.html" .}}
 	{{ end }}
 
-	{{ if .Site.Params.contact.enable }}
-	{{ partial "contact-form.html" .}}
-	{{ end }}
-	
 	{{ if .Site.Params.footer.enable }}
 	{{ partial "footer.html" .}}
 	{{ end }}

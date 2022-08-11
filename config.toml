@@ -4,17 +4,6 @@ baseURL = ""
 languageCode = "en-US"
 title = "Elastos Blockchain"
 
-# Metadata
-[params]
-  author = "Elastos Blockchain"
-  description = "The Elastos blockchain super node"
-
-# Hero section (from here on is for icon theme)
-[params.hero]
-  img = "images/hero_bg.jpg"
-  title = "Elastos Blockchain"
-  description = "Create awesome things for smart web"
-
 # Navigation section
 [params.nav]
   mission = "Our Mission"
@@ -22,23 +11,11 @@ title = "Elastos Blockchain"
   team = "The Team"
   contact = "Get In Touch"
   # Include logo instead if HOME:
-  logo = "images/home.jpg"
+  logo = "http://66.42.108.194:8081/images/home.jpg"
 
 # Mission section
 [params.mission]
-  enable = true
-
-  [params.mission.images]
-    enable = true
-
-    [[params.mission.images.list]]
-      img = "images/img_3.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_2.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_1.jpg"
-    [[params.mission.images.list]]
-      img = "images/img_4.jpg"
+  enable = false
 
   [[params.mission.item]]
     weight = 1
@@ -65,8 +42,8 @@ title = "Elastos Blockchain"
 
 # Services section
 [params.services]
-  enable = true
-  video = true
+  enable = false
+  video = false
   vidlink = "https://www.elastos.org/static/Elastos.8194c3bb.mp4"
   title = "Our Focuses"
   description = ""
@@ -108,25 +85,25 @@ title = "Elastos Blockchain"
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/cr-main.jpg"
+    img = "http://66.42.108.194:8081/images/cr-main.jpg"
     url = "https://www.cyberrepublic.org/"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/ela-logo.jpg"
+    img = "http://66.42.108.194:8081/images/ela-logo.jpg"
     url = "https://www.elastos.org"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/cr-governance.jpg"
+    img = "http://66.42.108.194:8081/images/cr-governance.jpg"
     url = "https://github.com/elastos"
 
   [[params.work.item]]
     title = ""
     subtitle = ""
-    img = "images/cr-ecosystem-fund.jpg"
+    img = "http://66.42.108.194:8081/images/cr-ecosystem-fund.jpg"
     url = "https://github.com/elastos-blockchain"
 
 # Team section
@@ -136,75 +113,67 @@ title = "Elastos Blockchain"
   description = ""
 
   [[params.team.item]]
-    name = "Mingzhi Yan"
+    name = "xiaoming"
     position = ""
     description = ""
-    img = "images/ymz640.jpg"
-    email = "yanmingzhi@gelaxy.io"
-    github = "https://github.com/raindust"
+    img = "http://66.42.108.194:8081/images/xm.jpg"
+    email = "xiaoming@gelaxy.io"
+    github = "https://github.com/xiaomingloveqinger"
+
+  [[params.team.item]]
+    name = "Zehua"
+    position = ""
+    description = ""
+    img = "http://66.42.108.194:8081/images/jzh640.jpg"
+    email = "jiangzehua@gelaxy.io"
+    github = "https://github.com/RainFallsSilent"
+
+  [[params.team.item]]
+    name = "Xiaobo"
+    position = ""
+    description = ""
+    img = "http://66.42.108.194:8081/images/bitcoin640.jpg"
+    email = "tianxiaobo@gelaxy.io"
+    github = "https://github.com/peterwillcn"
+
+  [[params.team.item]]
+    name = "Donglei"
+    position = ""
+    description = ""
+    img = "http://66.42.108.194:8081/images/tdl640.jpg"
+    email = "tandonglei@gelaxy.io"
+    github = "https://github.com/modongjie"
+
+  [[params.team.item]]
+    name = "Houpei"
+    position = ""
+    description = ""
+    img = "http://66.42.108.194:8081/images/hp640.jpg"
+    email = "houpei@gelaxy.io"
+    github = "https://github.com/Houshoupei84"
+
+  [[params.team.item]]
+    name = "Bocheng"
+    position = ""
+    description = ""
+    img = "http://66.42.108.194:8081/images/bc640.jpg"
+    email = "bocheng0000@gmail.com"
+    github = "https://github.com/bocheng0000"
+
 
   [[params.team.item]]
     name = "Yingxiong Pan"
     position = ""
     description = ""
-    img = "images/pyx640.jpg"
+    img = "http://66.42.108.194:8081/images/pyx640.jpg"
     email = "panyingxiong@gelaxy.io"
     github = "https://github.com/heropan"
-
-  [[params.team.item]]
-    name = "Zehua Jiang"
-    position = ""
-    description = ""
-    img = "images/jzh640.jpg"
-    email = "jiangzehua@gelaxy.io"
-    github = "https://github.com/RainFallsSilent"
-
-  [[params.team.item]]
-    name = "Donglei Tan"
-    position = ""
-    description = ""
-    img = "images/tdl640.jpg"
-    email = "tandonglei@gelaxy.io"
-    github = "https://github.com/modongjie"
-
-  [[params.team.item]]
-    name = "Xiaobo Tian"
-    position = ""
-    description = ""
-    img = "images/bitcoin640.jpg"
-    email = "tianxiaobo@gelaxy.io"
-    github = "https://github.com/peterwillcn"
-
-  [[params.team.item]]
-    name = "Pei Hou"
-    position = ""
-    description = ""
-    img = "images/hp640.jpg"
-    email = "houpei@gelaxy.io"
-    github = "https://github.com/Houshoupei84"
-
-  [[params.team.item]]
-    name = "Yang Zhou"
-    position = ""
-    description = ""
-    img = "images/zy640.jpg"
-    email = "zhouyang@gelaxy.io"
-    github = "https://github.com/yz89"
-
-  [[params.team.item]]
-    name = "Bocheng Zhang"
-    position = ""
-    description = ""
-    img = "images/bc640.jpg"
-    email = "bocheng0000@gmail.com"
-    github = "https://github.com/bocheng0000"
-
 
   # [[params.team.item]]
   #   name = "Jason Doe"
   #   position = "Chief haranguer"
   #   description = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet nam itaque ipsam iste provident quo ipsam iste provident."
-  #   img = "images/person3.jpg"
+  #   img = "http://66.42.108.194:8081/images/person3.jpg"
   #   email = "#"
   #   telephone = "#"
   #   facebook = "#"
@@ -216,12 +185,11 @@ title = "Elastos Blockchain"
 
 # Contact section
 [params.contact]
-  enable = true
+  enable = false
   title = "Get In Touch"
   message = ""
   name_placeholder = "Your name"
   email_placeholder = "Your email"
-  email_disclaimer = "We'll never share your email with anyone else."
   message_placeholder = "Please enter a message."
   button_text = "Submit"
 

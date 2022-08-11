@@ -1,9 +1,2 @@
 .DS_Store
-public/categories
-public/css
-public/fonts
-public/js
-public/tags
-public/favicon.ico
-public/index.html
-public/*.xml
+public
